@@ -18,8 +18,8 @@ git pull downloads and updates your files with new changes.
 
 <!-- git rebase and the command for it -->
 git rebase moves your changes to the latest version of main branch.
-(git rebase <branch-name>)
+(git rebase {branch-name})
 
 <!-- git cherry-pick and the command for it -->
 git cherry-pick allows you to apply a specific commit from one branch onto another branch.
-(git cherry-pick <commit-hash>)
+(git cherry-pick {commit-hash})
